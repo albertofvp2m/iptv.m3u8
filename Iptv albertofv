@@ -14,7 +14,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/TGLA7.svg",  TG La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvdigitaldivide.it/wp-content/uploads/2015/07/la7d.png",  TG La 7
+#EXTINF:-1 tvg-logo="http://www.tvdigitaldivide.it/wp-content/uploads/2015/07/la7d.png",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png",  Rakuten Action Movies Italy (720p)
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
